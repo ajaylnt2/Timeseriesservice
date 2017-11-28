@@ -1,0 +1,9 @@
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\bin\Release\netcoreapp1.1\TSManager.deps.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\bin\Release\netcoreapp1.1\TSManager.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\bin\Release\netcoreapp1.1\TSManager.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\bin\Release\netcoreapp1.1\DataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\bin\Release\netcoreapp1.1\DataAdaptor.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\obj\Release\netcoreapp1.1\TSManager.csprojResolveAssemblyReference.cache
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\obj\Release\netcoreapp1.1\TSManager.AssemblyInfo.cs
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\obj\Release\netcoreapp1.1\TSManager.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\TSManager\obj\Release\netcoreapp1.1\TSManager.pdb

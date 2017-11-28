@@ -1,0 +1,7 @@
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\bin\Release\netcoreapp1.1\DataAdaptor.deps.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\bin\Release\netcoreapp1.1\DataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\bin\Release\netcoreapp1.1\DataAdaptor.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Release\netcoreapp1.1\DataAdaptor.AssemblyInfo.cs
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Release\netcoreapp1.1\DataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Release\netcoreapp1.1\DataAdaptor.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Release\netcoreapp1.1\DataAdaptor.csprojResolveAssemblyReference.cache

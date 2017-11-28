@@ -1,0 +1,26 @@
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.deps.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.runtimeconfig.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.runtimeconfig.dev.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.AssemblyInfo.cs
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.csprojResolveAssemblyReference.cache
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\DataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\TSManager.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\TSManager.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\DataAdaptor.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.deps.json
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.runtimeconfig.json
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.runtimeconfig.dev.json
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.csprojResolveAssemblyReference.cache
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.AssemblyInfo.cs
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\Timeseries.API.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\DataAdaptor.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\TSManager.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\TSManager.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\bin\Debug\netcoreapp1.1\DataAdaptor.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\Timeseries.API\obj\Debug\netcoreapp1.1\Timeseries.API.pdb

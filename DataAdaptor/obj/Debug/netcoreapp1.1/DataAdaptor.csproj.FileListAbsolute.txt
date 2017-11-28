@@ -1,0 +1,14 @@
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\bin\Debug\netcoreapp1.1\DataAdaptor.deps.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\bin\Debug\netcoreapp1.1\DataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\bin\Debug\netcoreapp1.1\DataAdaptor.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.AssemblyInfo.cs
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.csprojResolveAssemblyReference.cache
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\DataAdaptor\bin\Debug\netcoreapp1.1\DataAdaptor.deps.json
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\DataAdaptor\bin\Debug\netcoreapp1.1\DataAdaptor.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\DataAdaptor\bin\Debug\netcoreapp1.1\DataAdaptor.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.AssemblyInfo.cs
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\DataAdaptor\obj\Debug\netcoreapp1.1\DataAdaptor.csprojResolveAssemblyReference.cache

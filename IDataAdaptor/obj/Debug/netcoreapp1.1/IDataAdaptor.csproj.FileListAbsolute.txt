@@ -1,0 +1,14 @@
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.deps.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.csprojResolveAssemblyReference.cache
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.AssemblyInfo.cs
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.deps.json
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\IDataAdaptor\bin\Debug\netcoreapp1.1\IDataAdaptor.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.AssemblyInfo.cs
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.dll
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.pdb
+C:\Users\90001855\Documents\My Received Files\Timeseries.Service\IDataAdaptor\obj\Debug\netcoreapp1.1\IDataAdaptor.csprojResolveAssemblyReference.cache

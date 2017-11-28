@@ -1,0 +1,13 @@
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\Timeseries.API.deps.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\Timeseries.API.runtimeconfig.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\Timeseries.API.runtimeconfig.dev.json
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\Timeseries.API.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\Timeseries.API.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\DataAdaptor.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\TSManager.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\TSManager.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\bin\Release\netcoreapp1.1\DataAdaptor.pdb
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Release\netcoreapp1.1\Timeseries.API.csprojResolveAssemblyReference.cache
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Release\netcoreapp1.1\Timeseries.API.AssemblyInfo.cs
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Release\netcoreapp1.1\Timeseries.API.dll
+E:\20105285\Source\Workspaces\LntDigitalCoreServices\TimeseriesServices\Source\Trunk\Timeseries.Service\Timeseries.API\obj\Release\netcoreapp1.1\Timeseries.API.pdb
